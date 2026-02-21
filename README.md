@@ -31,4 +31,6 @@
 - Introduce a reference to the current VendingMachineState object.
 - Delegate actions like selectItem, insertCoin, dispenseItem, and setOutOfOrder to the current state object through its corresponding methods.
 
+## UML Class Diagram
+![Image](https://github.com/eunicemabasa/Mabasa_StateDesignPattern_LabAss2/blob/main/State%20Design%20Pattern.png)
 
